@@ -1,16 +1,16 @@
 @font-face {
     font-family: "Lalezar";
-    src: url("./utils/fonts/Lalezar-Regular.ttf") format("truetype");
+    src: url("./fonts/Lalezar-Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Akshar";
-    src: url("./utils/fonts/Akshar-Light.ttf") format("truetype");
+    src: url("./fonts/Akshar-Light.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Akshar";
-    src: url("./utils/fonts/Akshar-Medium.ttf") format("truetype");
+    src: url("./fonts/Akshar-Medium.ttf") format("truetype");
 }
 
 body {

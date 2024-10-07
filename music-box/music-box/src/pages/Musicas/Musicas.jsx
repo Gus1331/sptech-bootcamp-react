@@ -22,6 +22,7 @@ const Musicas = () => {
         <>
             <NavBar logoInicio={logo} />
             <div className={styles["content-musicas"]}>
+            <CardMusica nomeMusica={'Teste Musica'} artista={'Teste'} anoLancamento={2001}/>
                 {cardsData && cardsData.map((data, index) => (
                     <div key={index} className={styles["quadrado"]}>
                         <CardMusica
